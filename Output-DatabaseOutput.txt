@@ -1,0 +1,6 @@
+﻿Running "HR"."PR_1" ( P_TCNO = 123456 ).
+
+(1 row(s) affected)
+(0 row(s) returned)
+P_ADETKAYIT = 0
+Finished running "HR"."PR_1".
